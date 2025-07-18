@@ -1,0 +1,36 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Ignore executable files
+*.exe
+
+
+# Ignore zip archives
+*.zip
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
