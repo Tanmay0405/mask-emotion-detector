@@ -30,6 +30,7 @@ A real-time deep learning application that detects if a person is wearing a mask
 | Deployment             | PyInstaller (.exe generation)                   |
 
 ---
+[![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge&logo=windows)](https://github.com/Tanmay0405/mask-emotion-detector/releases/latest)
 
 ## 🚀 How to Run the Project
 
